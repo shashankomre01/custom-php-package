@@ -1,0 +1,15 @@
+{
+    "name": "comport/userportal",
+    "type": "library",
+    "description": "Custor package",
+    "homepage": "https://compport.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "shashank omre",
+            "email": "shashank.omre@compport.com",
+            "homepage": "https://compport.com",
+            "role": "Developer"
+        }
+    ]
+}
